@@ -1,6 +1,7 @@
 // expose module classes
 exports.Intersection = require('./lib/Intersection');
 exports.IntersectionArgs = require('./lib/IntersectionArgs');
+exports.IntersectionQuery = require('./lib/IntersectionQuery');
 exports.Shapes = require('./lib/Shapes');
 exports.AffineShapes = require('./lib/AffineShapes');
 
